@@ -1,0 +1,28 @@
+body{
+    size: 50px;
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+    background-color: #a2d2ff;
+    border-color: #EFB0C9;
+}
+
+#birthpic{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    text-align: center;
+    border: 10px solid #EFB0C9;
+}
+
+h1, h2 {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    text-shadow: 0 0 1px black;
+}
+
+h4 {
+    color: #ffffff;
+    font-size: 20px;
+    text-shadow: 0 0 1px black;
+}
