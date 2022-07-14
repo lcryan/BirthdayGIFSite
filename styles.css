@@ -62,4 +62,6 @@ h4 {
 
 .gift-image {
     width: 400px;
+    border-radius: 20px;
+    border: 5px solid purple;
 }
