@@ -1,4 +1,4 @@
-body{
+body {
     size: 50px;
     text-align: center;
     font-family: 'Happy Monkey', cursive;
@@ -9,7 +9,7 @@ body{
     align-items: center;
 }
 
-#birthpic{
+#birthpic {
     width: 500px;
     height: 500px;
     border-radius: 50%;
@@ -35,18 +35,31 @@ h4 {
     background: #EFB0C9;
     padding: 5px 10px;
     border-radius: 5px;
+    margin-bottom: 50px;
+
 }
 
-#bday-age  {
+#bday-age {
     background: #EFB0C9;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 20px 0 10px 0;
 }
 
-#header{
+#header {
     display: flex;
     flex-direction: column;
     justify-content: start;
     align-items: center;
+}
+
+.h3-hover {
+    color: white;
+    font-size: 20px;
+    text-shadow: 0 0 1px black;
+    margin-top: 10px;
+}
+
+.gift-image {
+    width: 400px;
 }
