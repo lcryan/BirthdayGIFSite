@@ -32,5 +32,11 @@ h4 {
 
 h2, h4 {
     background: #EFB0C9;
+}
 
+#header{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
 }
