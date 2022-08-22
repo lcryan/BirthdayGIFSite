@@ -72,5 +72,8 @@ h4 {
     border: 10px solid purple;
     background-image: url("/images/gift image.jpg");
     background-size: cover;
+}
 
+.gift-image:hover{
+    background-image: url("/images/happy as larry.gif");
 }
