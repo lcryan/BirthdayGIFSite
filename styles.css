@@ -65,7 +65,12 @@ h4 {
 }
 
 .gift-image {
+    margin: 0 auto;
+    height: 400px;
     width: 400px;
     border-radius: 20px;
     border: 10px solid purple;
+    background-image: url("/images/gift image.jpg");
+    background-size: cover;
+
 }
